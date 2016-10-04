@@ -1,0 +1,46 @@
+<style>
+/* external css: flickity.css */
+.gallery-cell {
+  width: 25%;
+  height: auto;
+  background: #333;
+  margin-right: 10px;
+}
+
+.gallery {
+  background: #eee;
+}
+
+.gallery-cell.is-selected {
+  background: #d0021b;
+  padding: 0 0 30px;
+}
+
+
+.flickity-page-dots .dot {
+    padding: 0 0 10px;
+	width: 15px;
+	height: 5px;
+	margin: 0 5px 30px;
+}
+
+.flickity-prev-next-button{
+    background: hsla(0, 0%, 100%, 0.75);
+}
+
+</style>
+
+
+
+<!-- Flickity HTML init -->
+<div class="gallery js-flickity">
+  <div class="gallery-cell"><a href=""><img src="https://1.bp.blogspot.com/-JjQfzMF4-74/V_HsfZw8CgI/AAAAAAAADMI/WP1NxeqNiLAVRyYR7DEmCyCf0SAhXMr3QCLcB/s1600/Pajero-Featured-4.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://1.bp.blogspot.com/-9mcbXV8mgMM/V_HsegZyUdI/AAAAAAAADME/iGciQ8D9gLcuxMx1rYqSdgUJ5HFwgk45wCLcB/s1600/Outlander-Featured-Image-Final.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://2.bp.blogspot.com/-aWXiujqVek4/V_Hsdw6hoEI/AAAAAAAADMA/d7m-THloQqEeFgjCh5VErD_rjJBWYLZCwCLcB/s1600/Mirage-Featured-Image-Final.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://3.bp.blogspot.com/-S5x8uTNbXlo/V_HshuUpsiI/AAAAAAAADMQ/Bb9d2M8XdVgAAGz5fA2cwHRe4c6KzccyQCLcB/s1600/Triton-Featured-Image-Final.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://1.bp.blogspot.com/-WMvm60BmSzA/V_Hsbs2MaoI/AAAAAAAADL4/b3dHBU4oxzAxFPtjo409bl0eIEBZG1_RwCLcB/s1600/Featured-1.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://2.bp.blogspot.com/-kmUq2dWd8ek/V_Hsg8C1PMI/AAAAAAAADMM/c7fqBBCXyMo3b6V57t5kagnREXQ0ecQiACLcB/s1600/T120ss-Featured-Image.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://4.bp.blogspot.com/-o8XtzNGf2GY/V_Hsc12uuRI/AAAAAAAADL8/OpY5psxj2G0CGJ5JfjjgxQUb3FlIvOfkQCLcB/s1600/L300-Featured-Image.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://4.bp.blogspot.com/-jT10a6kadeY/V_MeKrAYEUI/AAAAAAAADNE/1FpxlKICfxUYLPIVJlo_LdZTjqAd-w-IwCLcB/s1600/FE.jpg"/></a></div>
+  <div class="gallery-cell"><a href=""><img src="https://1.bp.blogspot.com/-yKpRwfyqpK4/V_MeJiMKG4I/AAAAAAAADNA/k2KW7tDUKmkS3X9f_DEtXM38BgALpdjZACLcB/s1600/fuso.jpg"/></a></div>
+</div>
