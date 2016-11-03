@@ -1,0 +1,8 @@
+ .tab1{width:50%;padding:2px;font-family:Verdana;font-size: 12px;font-weight:400;border-bottom:1px solid #fff;background:#F2F2F2} 
+ .tab2{width:50%;padding:2px;font-family:Verdana;font-size: 12px;font-weight:400;border-bottom:1px solid #fff;background:#c2c2c2;} 
+ .tab3 {width:50%;padding:2px;font-family:Verdana;font-size:14px; font-weight:600; text-transform: uppercase;color:#ffffff;border-bottom:1px solid #fff;background:#FF3838;} 
+ /*judul oto*/ 
+ .merek-harago {padding:2px;font-family:Verdana;font-size:18px !important;font-weight:bold;color:#222;text-align:left;text-align:left;vertical-align:middle !important;} 
+ /* Tabber----------------------------------------------- */ 
+ .table-wrapnyo{font-family:Verdana;font-size:13px;padding:5px 0px 0px 0px;border:none !important; border-top:none;overflow:hidden;clear:both;float:left;width:100%;background:#fff; margin:23px 0 0 0; } 
+ .tabber{padding:10px 0} ::-webkit-scrollbar {height:15px;width: 15px;background: #f4f4f4;} ::-webkit-scrollbar-thumb {background-color: #cccccc}
