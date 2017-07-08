@@ -809,7 +809,7 @@ $(document).ready(function() {
 	var a = " ",
 		b = " ",
 		c = " ",
-		d = "By DenCokie",
+		d = "<- Geser ->",
 		e = "flexslider",
 		f = function() {
 			window.location.hostname != a && window.location.hostname != b && ($("." + e).append('<a class="intro" href="' + c + '" rel="dofollow" target="_blank">' + d + "</a>"), $("a.intro").css({
